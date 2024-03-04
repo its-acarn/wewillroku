@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="MainScene" extends="Scene" >
+    <script type="text/brightscript" uri="MainScene.brs" />
+    <script type="text/brightscript" uri="../source/utils.brs" />
+    <script type="text/brightscript" uri="../components/businessLogic/screenStackLogic.brs" />
+    <script type="text/brightscript" uri="../components/businessLogic/navigationLogic.brs" />
+
+    <children></children>
+</component>

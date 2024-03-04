@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="PlayerScreen" extends="Group" >
+    <script type="text/brightscript" uri="PlayerScreen.brs" />
+    <children>
+      <Label
+	      id="titleLabel"
+	      width="1020"
+			  translation="[130,170]"
+        text="Player Screen"
+	    />
+    </children>
+</component>
